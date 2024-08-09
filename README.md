@@ -12,7 +12,7 @@ I’m excited to share a recent project where I developed a conversational AI ch
    - The project integrates Groq’s API to leverage the power of the LLAMA 3.1 model. The API key is securely handled and stored in the environment variables, ensuring safe and easy access during runtime.
 
 3. **Session Management:**
-   - Chat history is preserved using Streamlit’s session state, which allows the bot to maintain a coherent and continuous conversation flow. Each user input is stored and displayed along with the corresponding bot response.
+   - Chat history is preserved using Streamlit’s session state, which allows the Bot to maintain a coherent and continuous conversation flow. Each user input is stored and displayed along with the corresponding bot response.
 
 4. **User Interaction:**
    - The chatbot interface is designed for seamless user interaction. Users can input their questions or prompts, which are then processed by the LLAMA model to generate thoughtful and relevant responses.
